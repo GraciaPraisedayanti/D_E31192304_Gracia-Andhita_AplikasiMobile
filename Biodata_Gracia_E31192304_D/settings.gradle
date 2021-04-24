@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Biodata_Gracia_E31192304_D"
